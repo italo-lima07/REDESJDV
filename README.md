@@ -1,4 +1,4 @@
-```mermad
+```mermaid
 graph TD
 A(Iniciar Cliente) --> B[Conectar ao Servidor]
 B --> C[Receber Mensagem do Servidor]
