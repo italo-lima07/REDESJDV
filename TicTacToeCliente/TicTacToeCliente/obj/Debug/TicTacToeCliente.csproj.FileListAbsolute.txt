@@ -1,0 +1,6 @@
+C:\Users\Aluno\Italo Lima Ferreira\TicTacToeCliente\TicTacToeCliente\bin\Debug\TicTacToeCliente.exe
+C:\Users\Aluno\Italo Lima Ferreira\TicTacToeCliente\TicTacToeCliente\bin\Debug\TicTacToeCliente.pdb
+C:\Users\Aluno\Italo Lima Ferreira\TicTacToeCliente\TicTacToeCliente\obj\Debug\TicTacToeCliente.csproj.AssemblyReference.cache
+C:\Users\Aluno\Italo Lima Ferreira\TicTacToeCliente\TicTacToeCliente\obj\Debug\TicTacToeCliente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Italo Lima Ferreira\TicTacToeCliente\TicTacToeCliente\obj\Debug\TicTacToeCliente.exe
+C:\Users\Aluno\Italo Lima Ferreira\TicTacToeCliente\TicTacToeCliente\obj\Debug\TicTacToeCliente.pdb
